@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Burned&display=swap');
+
+body{
+  background-image: url(https://images3.alphacoders.com/104/thumb-1920-1041825.jpg);
+  background-size: 100%;
+}
+
+.Joke{
+  color: rgb(80, 2, 2);
+  font-family: 'Rubik Burned', cursive;
+  width: 500px;
+}
+
+.App{
+  padding: 150px 150px;
+  text-align: center;
+}
+
+a{
+  background-image: linear-gradient(to right, black , darkblue);;
+  text-decoration: none;
+  padding: 10px;
+  color: darkgreen;
+  font-weight: bolder;
+}
